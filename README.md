@@ -74,9 +74,22 @@ Customer-Churn-Analysis/
 
 Six charts were produced covering:
 
-- Overall churn distribution
-- Churn by contract type
-- Churn by internet service
-- Churn by customer tenure
-- Churn by monthly charges
-- Churn by senior citizen status
+- ## 📈 Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Churn by Contract Type
+![Churn by Contract](images/churn_by_contract.png)
+
+### Churn by Internet Service
+![Churn by Internet](images/churn_by_internet.png)
+
+### Churn by Tenure
+![Churn by Tenure](images/churn_by_tenure.png)
+
+### Churn by Monthly Charges
+![Churn by Charges](images/churn_by_charges.png)
+
+### Churn by Senior Citizen Status
+![Churn by Senior](images/churn_by_senior.png)
